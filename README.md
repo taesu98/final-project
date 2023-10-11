@@ -11,5 +11,5 @@
 
 1. git add .
 2. git commit -m "전하고싶은말"
-3. git push origin (작업 전 만든 브랜치 이름) / 예: git push origin (이니셜)
+3. git push origin (작업 전 만든 브랜치 이름) / 예: git push origin (오늘날짜_이니셜)
 4. 깃허브에서 Pull requests 후 merge
